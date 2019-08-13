@@ -11,7 +11,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [[menu.main]]
     name = "About"
-    url = "/about_alex/"
+    url = "/about_alex"
 [[menu.main]]
     name = "Google Scholar"
     url = "https://scholar.google.com/citations?user=4yKO1eUAAAAJ&hl=en"
@@ -41,7 +41,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     favicon = "favicon.ico"
 
     [params.logo]
-    url = "logo.png"
-    width = 50
-    height = 50
+    url = "waddington_landscape.png"
+    width = 100
+    height = 100
     alt = "Logo"
