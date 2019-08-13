@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "A Hugo website"
+title = "Alexander Danvers' website"
 theme = "hugo-lithium"
 googleAnalytics = ""
 disqusShortname = ""
@@ -11,13 +11,19 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [[menu.main]]
     name = "About"
-    url = "/about/"
+    url = "/about_alex/"
+[[menu.main]]
+    name = "Google Scholar"
+    url = "https://scholar.google.com/citations?user=4yKO1eUAAAAJ&hl=en"
+[[menu.main]]
+    name = "Psychology Today blog"
+    url = "https://www.psychologytoday.com/us/blog/how-do-you-know"
 [[menu.main]]
     name = "GitHub"
-    url = "https://github.com/rstudio/blogdown"
+    url = "https://github.com/adanvers"
 [[menu.main]]
     name = "Twitter"
-    url = "https://twitter.com/rstudio"
+    url = "https://twitter.com/alex_danvers"
 
 [params]
     description = "A website built through Hugo and blogdown."
@@ -39,4 +45,3 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     width = 50
     height = 50
     alt = "Logo"
-
