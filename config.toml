@@ -14,7 +14,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     url = "/CV_8-8-19.pdf"
 [[menu.main]]
     name = "About"
-    url = "/about_alex"
+    url = "/about_alex.html"
 [[menu.main]]
     name = "Google Scholar"
     url = "https://scholar.google.com/citations?user=4yKO1eUAAAAJ&hl=en"
